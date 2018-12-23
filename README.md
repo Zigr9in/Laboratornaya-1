@@ -1,2 +1,2 @@
-# Laboratornaya-rabota-1
+# Laboratornye-raboti
 Python Labs
